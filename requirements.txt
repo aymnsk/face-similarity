@@ -3,3 +3,5 @@ face_recognition
 opencv-python
 numpy
 Pillow
+torch
+torchvision
